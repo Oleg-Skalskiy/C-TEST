@@ -1,0 +1,15 @@
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.exe
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.deps.json
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.runtimeconfig.json
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.dll
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.pdb
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.dll
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net7.0\refint\Example002_HelloUser.dll
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
+C:\Users\Oleg\Documents\GitHub\C#TEST\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll
